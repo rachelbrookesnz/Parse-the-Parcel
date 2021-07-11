@@ -1,0 +1,14 @@
+/Users/rachelbrookes/Projects/ParseTheParcel/ParseTheParcel/bin/Release/net5.0/ParseTheParcel.deps.json
+/Users/rachelbrookes/Projects/ParseTheParcel/ParseTheParcel/bin/Release/net5.0/ParseTheParcel.runtimeconfig.json
+/Users/rachelbrookes/Projects/ParseTheParcel/ParseTheParcel/bin/Release/net5.0/ParseTheParcel.runtimeconfig.dev.json
+/Users/rachelbrookes/Projects/ParseTheParcel/ParseTheParcel/bin/Release/net5.0/ParseTheParcel.dll
+/Users/rachelbrookes/Projects/ParseTheParcel/ParseTheParcel/bin/Release/net5.0/ref/ParseTheParcel.dll
+/Users/rachelbrookes/Projects/ParseTheParcel/ParseTheParcel/bin/Release/net5.0/ParseTheParcel.pdb
+/Users/rachelbrookes/Projects/ParseTheParcel/ParseTheParcel/obj/Release/net5.0/ParseTheParcel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rachelbrookes/Projects/ParseTheParcel/ParseTheParcel/obj/Release/net5.0/ParseTheParcel.AssemblyInfoInputs.cache
+/Users/rachelbrookes/Projects/ParseTheParcel/ParseTheParcel/obj/Release/net5.0/ParseTheParcel.AssemblyInfo.cs
+/Users/rachelbrookes/Projects/ParseTheParcel/ParseTheParcel/obj/Release/net5.0/ParseTheParcel.csproj.CoreCompileInputs.cache
+/Users/rachelbrookes/Projects/ParseTheParcel/ParseTheParcel/obj/Release/net5.0/ParseTheParcel.dll
+/Users/rachelbrookes/Projects/ParseTheParcel/ParseTheParcel/obj/Release/net5.0/ref/ParseTheParcel.dll
+/Users/rachelbrookes/Projects/ParseTheParcel/ParseTheParcel/obj/Release/net5.0/ParseTheParcel.pdb
+/Users/rachelbrookes/Projects/ParseTheParcel/ParseTheParcel/obj/Release/net5.0/ParseTheParcel.genruntimeconfig.cache
